@@ -1,0 +1,9 @@
+- https://psicologacautriasantos.com/
+
+A FAZER
+- Trocar fonte
+- Display telefone no site (talvez)
+
+RECADOS
+- Cadastro de ADM normal em cadastra_psi.php, alterar na apresentação
+- Alt + Shift + F = formatador do PHP Intelephense
